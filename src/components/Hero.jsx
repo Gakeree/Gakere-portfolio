@@ -5,7 +5,8 @@ const Hero = () => {
     { logo: "logo-instagram",href:" ", target:"_blank"},
     { logo: "logo-twitter",href:"https://twitter.com/ProudKenyan13", target:"_blank"},
     { logo: "logo-facebook",href:" ", target:"_blank"},
-    { logo: "logo-linkedin",href:" ", target:"_blank"},
+    { logo: "logo-linkedin",href:"", target:"_blank"},
+    { logo: "logo-github",href:"https://github.com/Gakeree", target:"_blank"},
   ];
   return (
     <section
