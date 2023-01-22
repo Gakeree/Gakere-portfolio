@@ -3,7 +3,7 @@ import hero from "../assets/images/hero.png";
 const Hero = () => {
   const social_media = [
     { logo: "logo-instagram",href:" ", target:"_blank"},
-    { logo: "logo-twitter",href:" ", target:"_blank"},
+    { logo: "logo-twitter",href:"https://twitter.com/ProudKenyan13", target:"_blank"},
     { logo: "logo-facebook",href:" ", target:"_blank"},
     { logo: "logo-linkedin",href:" ", target:"_blank"},
   ];
