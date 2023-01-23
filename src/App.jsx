@@ -8,12 +8,14 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Bot from "./components/Bot";
+import Whatsapp from "./components/Whatsapp";
 
 const App = () => {
   return (
     <div>
       <Navbar />
       <Bot />
+      <Whatsapp/>
       <Hero />
       <About />
       <Skills />
